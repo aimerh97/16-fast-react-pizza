@@ -1,1 +1,1 @@
-This app was build as part of a react course
+This app was created as part of a React course
